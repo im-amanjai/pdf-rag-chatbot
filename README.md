@@ -8,8 +8,6 @@ Built using **Streamlit, LangChain, ChromaDB, Sentence Transformers, and Google 
 
 ## 🚀 Live Demo
 
-Add your deployed Streamlit link here:
-
 * https://pdf-rag-chatbot-rag.streamlit.app/
 
 ---
