@@ -11,7 +11,7 @@ Built using **Streamlit, LangChain, ChromaDB, Sentence Transformers, and Google 
 Add your deployed Streamlit link here:
 
 ```text
-https://your-app-name.streamlit.app
+https://pdf-rag-chatbot-rag.streamlit.app/
 ```
 
 ---
