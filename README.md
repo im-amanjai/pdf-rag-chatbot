@@ -10,9 +10,7 @@ Built using **Streamlit, LangChain, ChromaDB, Sentence Transformers, and Google 
 
 Add your deployed Streamlit link here:
 
-```text
-https://pdf-rag-chatbot-rag.streamlit.app/
-```
+* https://pdf-rag-chatbot-rag.streamlit.app/
 
 ---
 
@@ -307,7 +305,7 @@ What are the important concepts?
 **Aman Jaiswal**
 
 * GitHub: https://github.com/im-amanjai
-* LinkedIn: Add Your LinkedIn URL
+* LinkedIn: https://www.linkedin.com/in/aman-jaiswal-504ab3258
 
 ---
 
